@@ -1,4 +1,7 @@
 #!/bin/bash
+# author:anson
+# toutiao:code日志
+# time: 2020-3-4
 
 hostName="测试服务器"   							      # app名称
 dingdingKeyword="服务器告警"    						# 钉钉机器人关键词
